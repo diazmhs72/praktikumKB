@@ -1,1 +1,5 @@
-# praktikumKB
+Nama : Khafriza Diaz Permana
+NIM  : H1D023072
+Shift : C
+
+SISTEM MANAJEMEN TUGAS SEDERHANA
